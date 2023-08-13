@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Unir.IIoT.Demo.Services.Worker": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
